@@ -13,5 +13,9 @@ public class MainApp {
 		System.out.println("oajdoajdoajdoasjd");
 		System.out.println("oajdoajdoajdoasjd");
 
+		for (int i = 0; i< 10;i++) {
+			System.out.println(i);
+		}
+		System.out.println("new task2 fixbug done");
 	}
 }
